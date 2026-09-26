@@ -75,7 +75,10 @@
 .site-boundary{ fill:none; stroke:#767676; stroke-width:1; stroke-dasharray:3 2; }
 .site-inn{ fill:#E7D9C2; stroke:#111111; stroke-width:1.4; }
 .site-gh{ fill:#EADFC5; stroke:#111111; stroke-width:1.4; }
-.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }</style>
+.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }
+
+.shutter{ fill:#26344A; stroke:#14202F; stroke-width:1.4; }
+.shutter-slat{ stroke:#14202F; stroke-width:1; opacity:.5; }</style>
 <rect x="46.0" y="34.0" width="576.0" height="495.0" class="wall" />
 <rect x="46.0" y="34.0" width="90.0" height="126.0" class="room-fill room-guest" />
 <rect x="136.0" y="34.0" width="72.0" height="126.0" class="room-fill room-service" />
@@ -87,31 +90,31 @@
 <rect x="262.0" y="304.0" width="72.0" height="90.0" class="room-fill room-service" />
 <rect x="334.0" y="304.0" width="72.0" height="90.0" class="room-fill room-service" />
 <rect x="262.0" y="394.0" width="144.0" height="135.0" class="room-fill room-circ" />
-<rect x="46.0" y="160.0" width="144.0" height="135.0" class="room-fill room-guest" />
-<rect x="46.0" y="295.0" width="144.0" height="135.0" class="room-fill room-guest" />
-<rect x="478.0" y="160.0" width="144.0" height="135.0" class="room-fill room-guest" />
-<rect x="478.0" y="295.0" width="144.0" height="135.0" class="room-fill room-guest" />
-<rect x="46.0" y="430.0" width="144.0" height="99.0" class="room-fill room-service" />
-<rect x="478.0" y="430.0" width="144.0" height="99.0" class="room-fill room-service" />
-<rect x="190.0" y="160.0" width="72.0" height="369.0" class="room-fill room-circ" />
-<rect x="406.0" y="160.0" width="72.0" height="369.0" class="room-fill room-circ" />
+<rect x="46.0" y="160.0" width="144.0" height="184.5" class="room-fill room-guest" />
+<rect x="46.0" y="344.5" width="144.0" height="184.5" class="room-fill room-guest" />
+<rect x="478.0" y="160.0" width="144.0" height="184.5" class="room-fill room-guest" />
+<rect x="478.0" y="344.5" width="144.0" height="184.5" class="room-fill room-guest" />
+<rect x="190.0" y="160.0" width="72.0" height="270.0" class="room-fill room-circ" />
+<rect x="190.0" y="430.0" width="72.0" height="99.0" class="room-fill room-circ" />
+<rect x="406.0" y="160.0" width="72.0" height="270.0" class="room-fill room-circ" />
+<rect x="406.0" y="430.0" width="72.0" height="99.0" class="room-fill room-circ" />
 <rect x="136.0" y="160.0" width="54.0" height="45.0" class="room-fill room-bath" />
-<rect x="136.0" y="295.0" width="54.0" height="45.0" class="room-fill room-bath" />
+<rect x="136.0" y="344.5" width="54.0" height="45.0" class="room-fill room-bath" />
 <rect x="478.0" y="160.0" width="54.0" height="45.0" class="room-fill room-bath" />
-<rect x="478.0" y="295.0" width="54.0" height="45.0" class="room-fill room-bath" />
+<rect x="478.0" y="344.5" width="54.0" height="45.0" class="room-fill room-bath" />
 <line x1="262.0" y1="34.0" x2="262.0" y2="196.0" class="wallline"/>
 <line x1="406.0" y1="34.0" x2="406.0" y2="196.0" class="wallline"/>
 <line x1="262.0" y1="196.0" x2="406.0" y2="196.0" class="wallline"/>
 <line x1="46.0" y1="160.0" x2="190.0" y2="160.0" class="wallline"/>
 <line x1="478.0" y1="160.0" x2="622.0" y2="160.0" class="wallline"/>
+<line x1="190.0" y1="160.0" x2="262.0" y2="160.0" class="wallline"/>
+<line x1="406.0" y1="160.0" x2="478.0" y2="160.0" class="wallline"/>
 <line x1="190.0" y1="160.0" x2="190.0" y2="529.0" class="wallline"/>
-<line x1="406.0" y1="160.0" x2="406.0" y2="529.0" class="wallline"/>
+<line x1="478.0" y1="160.0" x2="478.0" y2="529.0" class="wallline"/>
 <line x1="262.0" y1="160.0" x2="262.0" y2="529.0" class="wallline"/>
 <line x1="406.0" y1="160.0" x2="406.0" y2="529.0" class="wallline"/>
-<line x1="46.0" y1="295.0" x2="190.0" y2="295.0" class="wallline"/>
-<line x1="478.0" y1="295.0" x2="622.0" y2="295.0" class="wallline"/>
-<line x1="46.0" y1="430.0" x2="190.0" y2="430.0" class="wallline"/>
-<line x1="478.0" y1="430.0" x2="622.0" y2="430.0" class="wallline"/>
+<line x1="46.0" y1="344.5" x2="190.0" y2="344.5" class="wallline"/>
+<line x1="478.0" y1="344.5" x2="622.0" y2="344.5" class="wallline"/>
 <line x1="190.0" y1="430.0" x2="262.0" y2="430.0" class="wallline"/>
 <line x1="406.0" y1="430.0" x2="478.0" y2="430.0" class="wallline"/>
 <line x1="262.0" y1="304.0" x2="406.0" y2="304.0" class="wallline"/>
@@ -119,12 +122,12 @@
 <line x1="262.0" y1="394.0" x2="406.0" y2="394.0" class="wallline"/>
 <line x1="136.0" y1="160.0" x2="136.0" y2="205.0" class="wallline"/>
 <line x1="136.0" y1="205.0" x2="190.0" y2="205.0" class="wallline"/>
-<line x1="136.0" y1="295.0" x2="136.0" y2="340.0" class="wallline"/>
-<line x1="136.0" y1="340.0" x2="190.0" y2="340.0" class="wallline"/>
+<line x1="136.0" y1="344.5" x2="136.0" y2="389.5" class="wallline"/>
+<line x1="136.0" y1="389.5" x2="190.0" y2="389.5" class="wallline"/>
 <line x1="532.0" y1="160.0" x2="532.0" y2="205.0" class="wallline"/>
 <line x1="478.0" y1="205.0" x2="532.0" y2="205.0" class="wallline"/>
-<line x1="532.0" y1="295.0" x2="532.0" y2="340.0" class="wallline"/>
-<line x1="478.0" y1="340.0" x2="532.0" y2="340.0" class="wallline"/>
+<line x1="532.0" y1="344.5" x2="532.0" y2="389.5" class="wallline"/>
+<line x1="478.0" y1="389.5" x2="532.0" y2="389.5" class="wallline"/>
 <line x1="136.0" y1="34.0" x2="136.0" y2="160.0" class="wallline"/>
 <line x1="208.0" y1="34.0" x2="208.0" y2="160.0" class="wallline"/>
 <line x1="208.0" y1="115.0" x2="262.0" y2="115.0" class="wallline"/>
@@ -166,36 +169,32 @@
 <line x1="409.6" y1="515.1" x2="474.4" y2="515.1" class="stairstep"/>
 <path d="M 442.0 512.2 l -3.1 -5.4 l 6.3 0 Z" class="stairarrow"/>
 <text x="442.0" y="423.7" class="lbl-tiny" text-anchor="middle">1-HR RATED ENCLOSURE</text>
-<line x1="316.0" y1="196.0" x2="352.0" y2="196.0" class="doorcut"/>
-<path d="M 316.0 196.0 L 343.0 196.0 A 27.0 27.0 0 0 1 316.0 223.0 Z" class="doorarc"/>
-<line x1="190.0" y1="187.0" x2="190.0" y2="214.0" class="doorcut"/>
-<path d="M 190.0 214.0 L 217.0 214.0 A 27.0 27.0 0 0 1 190.0 241.0 Z" class="doorarc"/>
-<line x1="478.0" y1="187.0" x2="478.0" y2="214.0" class="doorcut"/>
-<path d="M 478.0 187.0 L 478.0 214.0 A 27.0 27.0 0 0 1 451.0 187.0 Z" class="doorarc"/>
-<line x1="190.0" y1="214.0" x2="190.0" y2="241.0" class="doorcut"/>
-<path d="M 190.0 241.0 L 217.0 241.0 A 27.0 27.0 0 0 1 190.0 268.0 Z" class="doorarc"/>
-<line x1="190.0" y1="349.0" x2="190.0" y2="376.0" class="doorcut"/>
-<path d="M 190.0 376.0 L 217.0 376.0 A 27.0 27.0 0 0 1 190.0 403.0 Z" class="doorarc"/>
-<line x1="478.0" y1="214.0" x2="478.0" y2="241.0" class="doorcut"/>
-<path d="M 478.0 214.0 L 478.0 241.0 A 27.0 27.0 0 0 1 451.0 214.0 Z" class="doorarc"/>
-<line x1="478.0" y1="349.0" x2="478.0" y2="376.0" class="doorcut"/>
-<path d="M 478.0 349.0 L 478.0 376.0 A 27.0 27.0 0 0 1 451.0 349.0 Z" class="doorarc"/>
+<line x1="262.0" y1="196.0" x2="289.0" y2="196.0" class="doorcut"/>
+<path d="M 289.0 196.0 L 289.0 223.0 A 27.0 27.0 0 0 1 262.0 196.0 Z" class="doorarc"/>
+<line x1="262.0" y1="169.0" x2="262.0" y2="187.0" class="doorcut"/>
+<path d="M 262.0 187.0 L 262.0 214.0 A 27.0 27.0 0 0 1 235.0 187.0 Z" class="doorarc"/>
+<line x1="406.0" y1="169.0" x2="406.0" y2="187.0" class="doorcut"/>
+<path d="M 406.0 169.0 L 433.0 169.0 A 27.0 27.0 0 0 1 406.0 196.0 Z" class="doorarc"/>
+<line x1="190.0" y1="241.0" x2="190.0" y2="268.0" class="doorcut"/>
+<path d="M 190.0 268.0 L 217.0 268.0 A 27.0 27.0 0 0 1 190.0 295.0 Z" class="doorarc"/>
+<line x1="190.0" y1="371.5" x2="190.0" y2="398.5" class="doorcut"/>
+<path d="M 190.0 398.5 L 217.0 398.5 A 27.0 27.0 0 0 1 190.0 425.5 Z" class="doorarc"/>
+<line x1="478.0" y1="241.0" x2="478.0" y2="268.0" class="doorcut"/>
+<path d="M 478.0 241.0 L 478.0 268.0 A 27.0 27.0 0 0 1 451.0 241.0 Z" class="doorarc"/>
+<line x1="478.0" y1="371.5" x2="478.0" y2="398.5" class="doorcut"/>
+<path d="M 478.0 371.5 L 478.0 398.5 A 27.0 27.0 0 0 1 451.0 371.5 Z" class="doorarc"/>
 <line x1="136.0" y1="173.5" x2="136.0" y2="191.5" class="doorcut"/>
 <path d="M 136.0 191.5 L 163.0 191.5 A 27.0 27.0 0 0 1 136.0 218.5 Z" class="doorarc"/>
-<line x1="136.0" y1="308.5" x2="136.0" y2="326.5" class="doorcut"/>
-<path d="M 136.0 326.5 L 163.0 326.5 A 27.0 27.0 0 0 1 136.0 353.5 Z" class="doorarc"/>
+<line x1="136.0" y1="358.0" x2="136.0" y2="376.0" class="doorcut"/>
+<path d="M 136.0 376.0 L 163.0 376.0 A 27.0 27.0 0 0 1 136.0 403.0 Z" class="doorarc"/>
 <line x1="532.0" y1="173.5" x2="532.0" y2="191.5" class="doorcut"/>
 <path d="M 532.0 173.5 L 532.0 200.5 A 27.0 27.0 0 0 1 505.0 173.5 Z" class="doorarc"/>
-<line x1="532.0" y1="308.5" x2="532.0" y2="326.5" class="doorcut"/>
-<path d="M 532.0 308.5 L 532.0 335.5 A 27.0 27.0 0 0 1 505.0 308.5 Z" class="doorarc"/>
+<line x1="532.0" y1="358.0" x2="532.0" y2="376.0" class="doorcut"/>
+<path d="M 532.0 358.0 L 532.0 385.0 A 27.0 27.0 0 0 1 505.0 358.0 Z" class="doorarc"/>
 <line x1="217.0" y1="430.0" x2="253.0" y2="430.0" class="doorcut"/>
 <path d="M 217.0 430.0 L 244.0 430.0 A 27.0 27.0 0 0 1 217.0 457.0 Z" class="doorarc"/>
 <line x1="415.0" y1="430.0" x2="451.0" y2="430.0" class="doorcut"/>
 <path d="M 415.0 430.0 L 415.0 457.0 A 27.0 27.0 0 0 1 388.0 430.0 Z" class="doorarc"/>
-<line x1="190.0" y1="457.0" x2="190.0" y2="484.0" class="doorcut"/>
-<path d="M 190.0 484.0 L 217.0 484.0 A 27.0 27.0 0 0 1 190.0 511.0 Z" class="doorarc"/>
-<line x1="478.0" y1="457.0" x2="478.0" y2="484.0" class="doorcut"/>
-<path d="M 478.0 457.0 L 478.0 484.0 A 27.0 27.0 0 0 1 451.0 457.0 Z" class="doorarc"/>
 <line x1="262.0" y1="61.0" x2="262.0" y2="88.0" class="doorcut"/>
 <path d="M 262.0 88.0 L 262.0 115.0 A 27.0 27.0 0 0 1 235.0 88.0 Z" class="doorarc"/>
 <line x1="406.0" y1="61.0" x2="406.0" y2="88.0" class="doorcut"/>
@@ -227,18 +226,18 @@
 <line x1="501.4" y1="34.0" x2="526.6" y2="34.0" class="window"/>
 <line x1="537.4" y1="34.0" x2="562.6" y2="34.0" class="window"/>
 <line x1="308.8" y1="34.0" x2="359.2" y2="34.0" class="window"/>
-<line x1="46.0" y1="185.4" x2="46.0" y2="220.1" class="window"/>
-<line x1="46.0" y1="234.9" x2="46.0" y2="269.6" class="window"/>
-<line x1="46.0" y1="320.4" x2="46.0" y2="355.1" class="window"/>
-<line x1="46.0" y1="369.9" x2="46.0" y2="404.6" class="window"/>
-<line x1="622.0" y1="185.4" x2="622.0" y2="220.1" class="window"/>
-<line x1="622.0" y1="234.9" x2="622.0" y2="269.6" class="window"/>
-<line x1="622.0" y1="320.4" x2="622.0" y2="355.1" class="window"/>
-<line x1="622.0" y1="369.9" x2="622.0" y2="404.6" class="window"/>
-<text x="118.0" y="218.0" class="lbl-room" text-anchor="middle">ROOM 201</text>
-<text x="118.0" y="229.8" class="lbl-dim-sm" text-anchor="middle">210 sf</text>
-<text x="550.0" y="218.0" class="lbl-room" text-anchor="middle">ROOM 203</text>
-<text x="550.0" y="229.8" class="lbl-dim-sm" text-anchor="middle">210 sf</text>
+<line x1="46.0" y1="222.1" x2="46.0" y2="259.9" class="window"/>
+<line x1="46.0" y1="276.1" x2="46.0" y2="313.9" class="window"/>
+<line x1="46.0" y1="384.1" x2="46.0" y2="421.9" class="window"/>
+<line x1="46.0" y1="438.1" x2="46.0" y2="475.9" class="window"/>
+<line x1="622.0" y1="222.1" x2="622.0" y2="259.9" class="window"/>
+<line x1="622.0" y1="276.1" x2="622.0" y2="313.9" class="window"/>
+<line x1="622.0" y1="384.1" x2="622.0" y2="421.9" class="window"/>
+<line x1="622.0" y1="438.1" x2="622.0" y2="475.9" class="window"/>
+<text x="118.0" y="236.0" class="lbl-room" text-anchor="middle">ROOM 201</text>
+<text x="118.0" y="247.8" class="lbl-dim-sm" text-anchor="middle">16′ × 20′-6″ · 298 sf</text>
+<text x="550.0" y="236.0" class="lbl-room" text-anchor="middle">ROOM 203</text>
+<text x="550.0" y="247.8" class="lbl-dim-sm" text-anchor="middle">16′ × 20′-6″ · 298 sf</text>
 <text x="91.0" y="48.9" class="lbl-room-sm" text-anchor="middle">TREATMENT ROOM</text>
 <text x="91.0" y="60.5" class="lbl-dim-sm" text-anchor="middle">10′ × 14′ · 140 sf</text>
 <text x="172.0" y="42.1" class="lbl-tiny" text-anchor="middle">SALON FLOOR · 8′ × 14′ · 112 sf</text>
@@ -249,14 +248,10 @@
 <text x="235.0" y="142.0" class="lbl-tiny" text-anchor="middle">BATH</text>
 <text x="334.0" y="65.0" class="lbl-room" text-anchor="middle">STAIR LANDING</text>
 <text x="334.0" y="76.8" class="lbl-dim-sm" text-anchor="middle">open to foyer below</text>
-<text x="118.0" y="353.1" class="lbl-room" text-anchor="middle">ROOM 202</text>
-<text x="118.0" y="364.8" class="lbl-dim-sm" text-anchor="middle">210 sf</text>
-<text x="550.0" y="353.1" class="lbl-room" text-anchor="middle">ROOM 204</text>
-<text x="550.0" y="364.8" class="lbl-dim-sm" text-anchor="middle">210 sf</text>
-<text x="118.0" y="474.6" class="lbl-room-sm" text-anchor="middle">LINEN STORAGE</text>
-<text x="118.0" y="486.2" class="lbl-dim-sm" text-anchor="middle">16′ × 11′ · 176 sf</text>
-<text x="550.0" y="474.6" class="lbl-room-sm" text-anchor="middle">LINEN STORAGE</text>
-<text x="550.0" y="486.2" class="lbl-dim-sm" text-anchor="middle">16′ × 11′ · 176 sf</text>
+<text x="118.0" y="420.6" class="lbl-room" text-anchor="middle">ROOM 202</text>
+<text x="118.0" y="432.2" class="lbl-dim-sm" text-anchor="middle">16′ × 20′-6″ · 298 sf</text>
+<text x="550.0" y="420.6" class="lbl-room" text-anchor="middle">ROOM 204</text>
+<text x="550.0" y="432.2" class="lbl-dim-sm" text-anchor="middle">16′ × 20′-6″ · 298 sf</text>
 <text x="334.0" y="245.0" class="lbl-room" text-anchor="middle">LAUNDRY</text>
 <text x="334.0" y="256.8" class="lbl-dim-sm" text-anchor="middle">16′ × 12′ · 192 sf</text>
 <text x="298.0" y="344.1" class="lbl-room-sm" text-anchor="middle">STORAGE</text>
@@ -267,9 +262,9 @@
 <text x="226.0" y="295.0" class="lbl-dim-sm" text-anchor="middle">CORRIDOR</text>
 <text x="442.0" y="295.0" class="lbl-dim-sm" text-anchor="middle">CORRIDOR</text>
 <text x="163.0" y="184.3" class="lbl-tiny" text-anchor="middle">BATH</text>
-<text x="163.0" y="319.3" class="lbl-tiny" text-anchor="middle">BATH</text>
+<text x="163.0" y="368.8" class="lbl-tiny" text-anchor="middle">BATH</text>
 <text x="505.0" y="184.3" class="lbl-tiny" text-anchor="middle">BATH</text>
-<text x="505.0" y="319.3" class="lbl-tiny" text-anchor="middle">BATH</text>
+<text x="505.0" y="368.8" class="lbl-tiny" text-anchor="middle">BATH</text>
 <line x1="46.0" y1="-11.0" x2="622.0" y2="-11.0" class="dimline"/>
 <line x1="46.0" y1="34.0" x2="46.0" y2="-11.0" class="dimtick"/>
 <line x1="622.0" y1="34.0" x2="622.0" y2="-11.0" class="dimtick"/>

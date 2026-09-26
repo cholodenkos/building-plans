@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" class="planart elevart" role="img" aria-label="Front elevation of the detached owner’s-quarters guest house: a plain single-story gable roof, one round window in the peak, a small covered entry porch, and an arched front door as the only ornament"><style>svg.planart,svg.elevart{ background:#FFFFFF; }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" class="planart elevart" role="img" aria-label="Front elevation of the detached owner’s-quarters cottage: a steep plain gable roof, one round window in the peak, shutters and flower boxes on every window, a small covered entry porch, and an arched front door"><style>svg.planart,svg.elevart{ background:#FFFFFF; }
 .wall{ fill:#F6EFDC; stroke:#111111; stroke-width:2.4; }
 .room-public{ fill:#DCE1E9; }
 .room-service{ fill:#E7D9C2; }
@@ -75,33 +75,111 @@
 .site-boundary{ fill:none; stroke:#767676; stroke-width:1; stroke-dasharray:3 2; }
 .site-inn{ fill:#E7D9C2; stroke:#111111; stroke-width:1.4; }
 .site-gh{ fill:#EADFC5; stroke:#111111; stroke-width:1.4; }
-.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }</style>
+.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }
+
+.shutter{ fill:#26344A; stroke:#14202F; stroke-width:1.4; }
+.shutter-slat{ stroke:#14202F; stroke-width:1; opacity:.5; }</style>
 <rect x="0" y="400" width="640" height="4" class="ground-line"/>
-<polygon points="36,260 320.0,130 604,260" class="roof-main"/>
-<line x1="36" y1="260" x2="604" y2="260" class="ridge-line"/>
-<circle cx="320.0" cy="203.0" r="22" class="win-frame"/>
-<line x1="298.0" y1="203.0" x2="342.0" y2="203.0" class="win-bar"/>
-<line x1="320.0" y1="181.0" x2="320.0" y2="225.0" class="win-bar"/>
-<rect x="50" y="260" width="540" height="8" class="cornice"/>
-<rect x="60" y="268" width="520" height="132" class="wall-upper"/>
-<rect x="100.0" y="300.0" width="60.0" height="70.0" class="win-frame"/>
-<line x1="130.0" y1="300.0" x2="130.0" y2="370.0" class="win-bar"/>
-<line x1="100.0" y1="335.0" x2="160.0" y2="335.0" class="win-bar"/>
-<rect x="180.0" y="300.0" width="60.0" height="70.0" class="win-frame"/>
-<line x1="210.0" y1="300.0" x2="210.0" y2="370.0" class="win-bar"/>
-<line x1="180.0" y1="335.0" x2="240.0" y2="335.0" class="win-bar"/>
-<rect x="400.0" y="300.0" width="60.0" height="70.0" class="win-frame"/>
-<line x1="430.0" y1="300.0" x2="430.0" y2="370.0" class="win-bar"/>
-<line x1="400.0" y1="335.0" x2="460.0" y2="335.0" class="win-bar"/>
-<rect x="480.0" y="300.0" width="60.0" height="70.0" class="win-frame"/>
-<line x1="510.0" y1="300.0" x2="510.0" y2="370.0" class="win-bar"/>
-<line x1="480.0" y1="335.0" x2="540.0" y2="335.0" class="win-bar"/>
-<polygon points="247.0,330 269.0,300 371.0,300 393.0,330" class="roof-upper"/>
-<rect x="255.0" y="328" width="10" height="72" class="pilaster"/>
-<rect x="375.0" y="328" width="10" height="72" class="pilaster"/>
-<path d="M 292.0 400 L 292.0 334 Q 320.0 314 348.0 334 L 348.0 400 Z" class="door"/>
+<polygon points="30,262 320.0,76 610,262" class="roof-main"/>
+<line x1="30" y1="262" x2="610" y2="262" class="ridge-line"/>
+<line x1="125.0" y1="260.0" x2="125.0" y2="222.5" class="roof-course"/>
+<line x1="515.0" y1="260.0" x2="515.0" y2="222.5" class="roof-course"/>
+<line x1="190.0" y1="260.0" x2="190.0" y2="182.9" class="roof-course"/>
+<line x1="450.0" y1="260.0" x2="450.0" y2="182.9" class="roof-course"/>
+<line x1="255.0" y1="260.0" x2="255.0" y2="143.4" class="roof-course"/>
+<line x1="385.0" y1="260.0" x2="385.0" y2="143.4" class="roof-course"/>
+<circle cx="320.0" cy="183.88" r="20" class="win-frame"/>
+<line x1="300.0" y1="183.88" x2="340.0" y2="183.88" class="win-bar"/>
+<line x1="320.0" y1="163.88" x2="320.0" y2="203.88" class="win-bar"/>
+<rect x="50" y="262" width="540" height="8" class="cornice"/>
+<rect x="60" y="270" width="520" height="130" class="wall-upper"/>
+<rect x="104.0" y="300.0" width="56.0" height="68.0" class="win-frame"/>
+<line x1="132.0" y1="300.0" x2="132.0" y2="368.0" class="win-bar"/>
+<line x1="104.0" y1="334.0" x2="160.0" y2="334.0" class="win-bar"/>
+<rect x="80.1" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="80.1" y1="317.0" x2="98.0" y2="317.0" class="shutter-slat"/>
+<line x1="80.1" y1="334.0" x2="98.0" y2="334.0" class="shutter-slat"/>
+<line x1="80.1" y1="351.0" x2="98.0" y2="351.0" class="shutter-slat"/>
+<rect x="166.0" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="166.0" y1="317.0" x2="183.9" y2="317.0" class="shutter-slat"/>
+<line x1="166.0" y1="334.0" x2="183.9" y2="334.0" class="shutter-slat"/>
+<line x1="166.0" y1="351.0" x2="183.9" y2="351.0" class="shutter-slat"/>
+<rect x="100.0" y="372.0" width="64.0" height="13.0" class="planter-box"/>
+<rect x="98.0" y="369.0" width="68.0" height="5" class="planter-rim"/>
+<circle cx="103.0" cy="371.0" r="6.5" class="planter-leaf"/>
+<circle cx="111.4" cy="371.0" r="6.4" class="planter-leaf"/>
+<circle cx="119.8" cy="371.0" r="7.3" class="planter-leaf"/>
+<circle cx="129.3" cy="371.0" r="7.4" class="planter-leaf"/>
+<circle cx="139.0" cy="371.0" r="6.0" class="planter-leaf"/>
+<circle cx="146.8" cy="371.0" r="6.6" class="planter-leaf"/>
+<circle cx="155.4" cy="371.0" r="6.9" class="planter-leaf"/>
+<rect x="188.0" y="300.0" width="56.0" height="68.0" class="win-frame"/>
+<line x1="216.0" y1="300.0" x2="216.0" y2="368.0" class="win-bar"/>
+<line x1="188.0" y1="334.0" x2="244.0" y2="334.0" class="win-bar"/>
+<rect x="164.1" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="164.1" y1="317.0" x2="182.0" y2="317.0" class="shutter-slat"/>
+<line x1="164.1" y1="334.0" x2="182.0" y2="334.0" class="shutter-slat"/>
+<line x1="164.1" y1="351.0" x2="182.0" y2="351.0" class="shutter-slat"/>
+<rect x="250.0" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="250.0" y1="317.0" x2="267.9" y2="317.0" class="shutter-slat"/>
+<line x1="250.0" y1="334.0" x2="267.9" y2="334.0" class="shutter-slat"/>
+<line x1="250.0" y1="351.0" x2="267.9" y2="351.0" class="shutter-slat"/>
+<rect x="184.0" y="372.0" width="64.0" height="13.0" class="planter-box"/>
+<rect x="182.0" y="369.0" width="68.0" height="5" class="planter-rim"/>
+<circle cx="187.0" cy="371.0" r="7.9" class="planter-leaf"/>
+<circle cx="197.2" cy="371.0" r="5.7" class="planter-leaf"/>
+<circle cx="204.7" cy="371.0" r="5.8" class="planter-leaf"/>
+<circle cx="212.1" cy="371.0" r="5.7" class="planter-leaf"/>
+<circle cx="219.6" cy="371.0" r="6.0" class="planter-leaf"/>
+<circle cx="227.4" cy="371.0" r="5.8" class="planter-leaf"/>
+<circle cx="235.0" cy="371.0" r="6.0" class="planter-leaf"/>
+<circle cx="242.8" cy="371.0" r="7.3" class="planter-leaf"/>
+<rect x="396.0" y="300.0" width="56.0" height="68.0" class="win-frame"/>
+<line x1="424.0" y1="300.0" x2="424.0" y2="368.0" class="win-bar"/>
+<line x1="396.0" y1="334.0" x2="452.0" y2="334.0" class="win-bar"/>
+<rect x="372.1" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="372.1" y1="317.0" x2="390.0" y2="317.0" class="shutter-slat"/>
+<line x1="372.1" y1="334.0" x2="390.0" y2="334.0" class="shutter-slat"/>
+<line x1="372.1" y1="351.0" x2="390.0" y2="351.0" class="shutter-slat"/>
+<rect x="458.0" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="458.0" y1="317.0" x2="475.9" y2="317.0" class="shutter-slat"/>
+<line x1="458.0" y1="334.0" x2="475.9" y2="334.0" class="shutter-slat"/>
+<line x1="458.0" y1="351.0" x2="475.9" y2="351.0" class="shutter-slat"/>
+<rect x="392.0" y="372.0" width="64.0" height="13.0" class="planter-box"/>
+<rect x="390.0" y="369.0" width="68.0" height="5" class="planter-rim"/>
+<circle cx="395.0" cy="371.0" r="6.3" class="planter-leaf"/>
+<circle cx="403.1" cy="371.0" r="5.5" class="planter-leaf"/>
+<circle cx="410.3" cy="371.0" r="5.2" class="planter-leaf"/>
+<circle cx="417.0" cy="371.0" r="7.2" class="planter-leaf"/>
+<circle cx="426.4" cy="371.0" r="7.2" class="planter-leaf"/>
+<circle cx="435.8" cy="371.0" r="6.7" class="planter-leaf"/>
+<circle cx="444.4" cy="371.0" r="6.8" class="planter-leaf"/>
+<rect x="480.0" y="300.0" width="56.0" height="68.0" class="win-frame"/>
+<line x1="508.0" y1="300.0" x2="508.0" y2="368.0" class="win-bar"/>
+<line x1="480.0" y1="334.0" x2="536.0" y2="334.0" class="win-bar"/>
+<rect x="456.1" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="456.1" y1="317.0" x2="474.0" y2="317.0" class="shutter-slat"/>
+<line x1="456.1" y1="334.0" x2="474.0" y2="334.0" class="shutter-slat"/>
+<line x1="456.1" y1="351.0" x2="474.0" y2="351.0" class="shutter-slat"/>
+<rect x="542.0" y="300.0" width="17.9" height="68.0" class="shutter"/>
+<line x1="542.0" y1="317.0" x2="559.9" y2="317.0" class="shutter-slat"/>
+<line x1="542.0" y1="334.0" x2="559.9" y2="334.0" class="shutter-slat"/>
+<line x1="542.0" y1="351.0" x2="559.9" y2="351.0" class="shutter-slat"/>
+<rect x="476.0" y="372.0" width="64.0" height="13.0" class="planter-box"/>
+<rect x="474.0" y="369.0" width="68.0" height="5" class="planter-rim"/>
+<circle cx="479.0" cy="371.0" r="7.1" class="planter-leaf"/>
+<circle cx="488.2" cy="371.0" r="7.7" class="planter-leaf"/>
+<circle cx="498.3" cy="371.0" r="5.6" class="planter-leaf"/>
+<circle cx="505.6" cy="371.0" r="5.5" class="planter-leaf"/>
+<circle cx="512.8" cy="371.0" r="5.4" class="planter-leaf"/>
+<circle cx="519.8" cy="371.0" r="6.7" class="planter-leaf"/>
+<circle cx="528.6" cy="371.0" r="6.7" class="planter-leaf"/>
+<polygon points="254.0,330 320.0,282 386.0,330" class="roof-upper"/>
+<rect x="260.0" y="328" width="9" height="72" class="pilaster"/>
+<rect x="371.0" y="328" width="9" height="72" class="pilaster"/>
+<path d="M 293.0 400 L 293.0 334 Q 320.0 314 347.0 334 L 347.0 400 Z" class="door"/>
 <line x1="320.0" y1="400" x2="320.0" y2="326" class="door-bar"/>
-<line x1="257.0" y1="340" x2="257.0" y2="352" class="sconce-arm"/>
-<circle cx="257.0" cy="356" r="5" class="sconce-lamp"/>
+<line x1="264.0" y1="340" x2="264.0" y2="352" class="sconce-arm"/>
+<circle cx="264.0" cy="356" r="5" class="sconce-lamp"/>
 <text x="320.0" y="434" class="cap" text-anchor="middle">GUEST HOUSE · FRONT ELEVATION · 1/8&#8243; = 1&#8242;-0&#8243; (approx.)</text>
 </svg>

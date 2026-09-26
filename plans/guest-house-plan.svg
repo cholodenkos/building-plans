@@ -75,11 +75,14 @@
 .site-boundary{ fill:none; stroke:#767676; stroke-width:1; stroke-dasharray:3 2; }
 .site-inn{ fill:#E7D9C2; stroke:#111111; stroke-width:1.4; }
 .site-gh{ fill:#EADFC5; stroke:#111111; stroke-width:1.4; }
-.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }</style>
+.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }
+
+.shutter{ fill:#26344A; stroke:#14202F; stroke-width:1.4; }
+.shutter-slat{ stroke:#14202F; stroke-width:1; opacity:.5; }</style>
 <rect x="46.0" y="34.0" width="378.0" height="306.0" class="wall" />
-<rect x="46.0" y="34.0" width="144.0" height="144.0" class="room-fill room-service" />
-<rect x="190.0" y="34.0" width="99.0" height="144.0" class="room-fill room-circ" />
-<rect x="289.0" y="34.0" width="135.0" height="144.0" class="room-fill room-public" />
+<rect x="46.0" y="34.0" width="117.0" height="144.0" class="room-fill room-service" />
+<rect x="163.0" y="34.0" width="144.0" height="144.0" class="room-fill room-public" />
+<rect x="307.0" y="34.0" width="117.0" height="144.0" class="room-fill room-circ" />
 <rect x="46.0" y="133.0" width="45.0" height="45.0" class="room-fill room-bath" />
 <rect x="46.0" y="178.0" width="378.0" height="45.0" class="room-fill room-circ" />
 <rect x="46.0" y="223.0" width="162.0" height="117.0" class="room-fill room-guest" />
@@ -92,8 +95,8 @@
 <line x1="46.0" y1="223.0" x2="424.0" y2="223.0" class="wallline"/>
 <line x1="46.0" y1="133.0" x2="91.0" y2="133.0" class="wallline"/>
 <line x1="91.0" y1="133.0" x2="91.0" y2="178.0" class="wallline"/>
-<line x1="190.0" y1="34.0" x2="190.0" y2="178.0" class="wallline"/>
-<line x1="289.0" y1="34.0" x2="289.0" y2="178.0" class="wallline"/>
+<line x1="163.0" y1="34.0" x2="163.0" y2="178.0" class="wallline"/>
+<line x1="307.0" y1="34.0" x2="307.0" y2="178.0" class="wallline"/>
 <line x1="208.0" y1="223.0" x2="208.0" y2="340.0" class="wallline"/>
 <line x1="46.0" y1="277.0" x2="127.0" y2="277.0" class="wallline"/>
 <line x1="127.0" y1="223.0" x2="127.0" y2="340.0" class="wallline"/>
@@ -120,22 +123,24 @@
 <path d="M 320.5 286.0 L 347.5 286.0 A 27.0 27.0 0 0 1 320.5 313.0 Z" class="doorarc"/>
 <line x1="145.0" y1="340.0" x2="172.0" y2="340.0" class="doorcut"/>
 <path d="M 145.0 340.0 L 145.0 313.0 A 27.0 27.0 0 0 1 172.0 340.0 Z" class="doorarc"/>
-<line x1="79.8" y1="34.0" x2="111.2" y2="34.0" class="window"/>
-<line x1="124.8" y1="34.0" x2="156.2" y2="34.0" class="window"/>
-<line x1="322.8" y1="34.0" x2="354.2" y2="34.0" class="window"/>
-<line x1="367.8" y1="34.0" x2="399.2" y2="34.0" class="window"/>
+<line x1="70.1" y1="34.0" x2="98.4" y2="34.0" class="window"/>
+<line x1="110.6" y1="34.0" x2="138.9" y2="34.0" class="window"/>
+<line x1="177.4" y1="34.0" x2="202.6" y2="34.0" class="window"/>
+<line x1="267.4" y1="34.0" x2="292.6" y2="34.0" class="window"/>
+<line x1="339.4" y1="34.0" x2="364.6" y2="34.0" class="window"/>
+<line x1="375.4" y1="34.0" x2="400.6" y2="34.0" class="window"/>
 <line x1="46.0" y1="83.5" x2="46.0" y2="146.5" class="window"/>
 <line x1="46.0" y1="237.4" x2="46.0" y2="262.6" class="window"/>
 <line x1="225.1" y1="340.0" x2="262.9" y2="340.0" class="window"/>
 <line x1="360.1" y1="340.0" x2="397.9" y2="340.0" class="window"/>
 <line x1="185.0" y1="340.0" x2="204.0" y2="340.0" class="window"/>
 <line x1="424.0" y1="253.2" x2="424.0" y2="309.8" class="window"/>
-<text x="118.0" y="83.1" class="lbl-room" text-anchor="middle">KITCHEN</text>
-<text x="118.0" y="94.8" class="lbl-dim-sm" text-anchor="middle">16′ × 16′ (less laundry)</text>
-<text x="239.5" y="83.1" class="lbl-room" text-anchor="middle">DINING</text>
-<text x="239.5" y="94.8" class="lbl-dim-sm" text-anchor="middle">open to kitchen + living</text>
-<text x="356.5" y="83.1" class="lbl-room" text-anchor="middle">LIVING ROOM</text>
-<text x="356.5" y="94.8" class="lbl-dim-sm" text-anchor="middle">15′ × 16′</text>
+<text x="104.5" y="83.1" class="lbl-room" text-anchor="middle">KITCHEN</text>
+<text x="104.5" y="94.8" class="lbl-dim-sm" text-anchor="middle">13′ × 16′ (less laundry)</text>
+<text x="235.0" y="83.1" class="lbl-room" text-anchor="middle">LIVING ROOM</text>
+<text x="235.0" y="94.8" class="lbl-dim-sm" text-anchor="middle">16′ × 16′ · open at the entry</text>
+<text x="365.5" y="83.1" class="lbl-room" text-anchor="middle">DINING</text>
+<text x="365.5" y="94.8" class="lbl-dim-sm" text-anchor="middle">13′ × 16′ · open to kitchen</text>
 <text x="68.5" y="160.0" class="lbl-tiny" text-anchor="middle">LAUNDRY</text>
 <text x="235.0" y="205.0" class="lbl-dim-sm" text-anchor="middle">HALL</text>
 <text x="127.0" y="254.0" class="lbl-room" text-anchor="middle">PRIMARY SUITE</text>
