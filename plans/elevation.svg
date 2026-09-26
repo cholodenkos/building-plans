@@ -1,0 +1,421 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" class="planart elevart" role="img" aria-label="Revised front elevation with modest flat pilasters, bell-cast mansard roof, and central attic dormer"><style>svg.planart,svg.elevart{ background:#F1E7D2; }
+.wall{ fill:#F6EFDC; stroke:#2A2117; stroke-width:2.4; }
+.room-public{ fill:#DCE3D3; }
+.room-service{ fill:#E7D9C2; }
+.room-guest{ fill:#EADFC5; }
+.room-circ{ fill:#F1E7D2; }
+.room-bath{ fill:#D9E1E4; }
+.room-attic{ fill:#EFE6D2; }
+.room-nook{ fill:#E3D8B9; }
+.wallline{ stroke:#2A2117; stroke-width:1.6; }
+.kneewall{ fill:none; stroke:#6B5B45; stroke-width:1.2; stroke-dasharray:5 4; }
+.doorcut{ stroke:#F6EFDC; stroke-width:3; }
+.doorarc{ fill:none; stroke:#6B5B45; stroke-width:1; }
+.archcut{ stroke:#DCE3D3; stroke-width:3; stroke-dasharray:1 3; }
+.window{ stroke:#5E7A5C; stroke-width:3; }
+.stairbox{ fill:#FBF6EA; stroke:#2A2117; stroke-width:1.2; }
+.stairstep{ stroke:#6B5B45; stroke-width:1; }
+.stairarrow{ fill:#6B5B45; }
+.compass{ fill:none; stroke:#6B5B45; stroke-width:1; }
+.compass-needle{ fill:#A8743A; }
+.scalebar{ stroke:#2A2117; stroke-width:1.2; }
+.dimline{ stroke:#9C8A6C; stroke-width:1; }
+.dimtick{ stroke:#9C8A6C; stroke-width:1; }
+.lbl,.lbl-room,.lbl-room-sm,.lbl-dim,.lbl-dim-sm,.lbl-tiny{ font-family:'Josefin Sans',Futura,sans-serif; fill:#2A2117; }
+.lbl-room{ font-size:9.5px; letter-spacing:.04em; font-weight:600; }
+.lbl-room-sm{ font-size:7.6px; letter-spacing:.03em; font-weight:600; }
+.lbl-dim{ font-size:8px; fill:#6B5B45; letter-spacing:.03em; }
+.lbl-dim-sm{ font-size:6.6px; fill:#6B5B45; letter-spacing:.02em; }
+.lbl-tiny{ font-size:5.6px; fill:#9C8A6C; font-style:italic; }
+.ground-line{ fill:#6B5B45; }
+.roof-main{ fill:#7C7161; stroke:#2A2117; stroke-width:2; }
+.roof-upper{ fill:#8B806E; stroke:#2A2117; stroke-width:2; }
+.roof-dormer{ fill:#8B806E; stroke:#2A2117; stroke-width:2; }
+.roof-course{ stroke:#2A2117; stroke-width:.7; opacity:.35; }
+.ridge-line{ stroke:#2A2117; stroke-width:1.4; }
+.chimney{ fill:#D8CBAE; stroke:#2A2117; stroke-width:1.6; }
+.chimney-cap{ fill:#6B5B45; stroke:#2A2117; stroke-width:1; }
+.dormer-wall{ fill:#F6EFDC; stroke:#2A2117; stroke-width:2; }
+.cornice{ fill:#6B5B45; stroke:#2A2117; stroke-width:1.4; }
+.cordon{ fill:#A8743A; stroke:#2A2117; stroke-width:1.2; opacity:.85; }
+.wall-upper{ fill:#F6EFDC; stroke:#2A2117; stroke-width:2.2; }
+.win-frame{ fill:#DDE5D6; stroke:#2A2117; stroke-width:2; }
+.win-bar{ stroke:#2A2117; stroke-width:1.3; }
+.win-bar-thin{ stroke:#2A2117; stroke-width:.9; }
+.rail{ stroke:#2A2117; stroke-width:1.6; fill:none; }
+.rail-thin{ stroke:#6B5B45; stroke-width:1; }
+.pilaster{ fill:#F6EFDC; stroke:#2A2117; stroke-width:1.4; }
+.pilaster-cap{ fill:#F6EFDC; stroke:#2A2117; stroke-width:1.2; }
+.band{ fill:#5E7A5C; opacity:.18; stroke:#2A2117; stroke-width:1.6; }
+.medallion{ fill:#A8743A; }
+.medallion-txt{ font-family:'Cormorant Garamond',Georgia,serif; font-size:22px; font-weight:600; letter-spacing:.14em; fill:#2A2117; }
+.sconce-arm{ stroke:#6B5B45; stroke-width:2; }
+.sconce-lamp{ fill:#A8743A; stroke:#2A2117; stroke-width:1; }
+.stone-base{ fill:#D8CBAE; stroke:#2A2117; stroke-width:2; }
+.stone-line{ stroke:#6B5B45; stroke-width:1; opacity:.55; }
+.stone-line-faint{ stroke:#6B5B45; stroke-width:.6; opacity:.3; }
+.door{ fill:#6B5B45; stroke:#2A2117; stroke-width:2; opacity:.85; }
+.door-bar{ stroke:#F1E7D2; stroke-width:1.4; }
+.door-bar-thin{ stroke:#F1E7D2; stroke-width:1; opacity:.7; }
+.cap{ font-family:'Josefin Sans',Futura,sans-serif; font-size:13px; fill:#6B5B45; letter-spacing:.08em; }</style>
+<rect x="0" y="560.0" width="760" height="4" class="ground-line"/>
+<path d="M 26.0 288.0 C 10.0 218.0, 70.0 174.0, 110.0 156.0 L 650.0 156.0 C 690.0 174.0, 750.0 218.0, 734.0 288.0 Z" class="roof-main"/>
+<line x1="75.1" y1="235.4" x2="684.9" y2="235.4" class="roof-course"/>
+<line x1="80.3" y1="222.9" x2="679.7" y2="222.9" class="roof-course"/>
+<line x1="85.4" y1="210.3" x2="674.6" y2="210.3" class="roof-course"/>
+<line x1="90.6" y1="197.7" x2="669.4" y2="197.7" class="roof-course"/>
+<line x1="95.7" y1="185.1" x2="664.3" y2="185.1" class="roof-course"/>
+<line x1="100.9" y1="172.6" x2="659.1" y2="172.6" class="roof-course"/>
+<path d="M 110.0 156.0 L 310.0 96.0 L 450.0 96.0 L 650.0 156.0 Z" class="roof-upper"/>
+<line x1="310.0" y1="96.0" x2="450.0" y2="96.0" class="ridge-line"/>
+<rect x="82.0" y="98.0" width="32" height="70" class="chimney"/>
+<rect x="78.0" y="94.0" width="40" height="8" class="chimney-cap"/>
+<rect x="88.0" y="106.0" width="20" height="14" class="chimney-cap"/>
+<rect x="646.0" y="98.0" width="32" height="70" class="chimney"/>
+<rect x="642.0" y="94.0" width="40" height="8" class="chimney-cap"/>
+<rect x="652.0" y="106.0" width="20" height="14" class="chimney-cap"/>
+<rect x="302.0" y="60.0" width="156.0" height="102.0" class="dormer-wall"/>
+<path d="M 292.0 60.0 C 286.0 6.0, 340.0 -20.0, 380.0 -24.0 C 420.0 -20.0, 474.0 6.0, 468.0 60.0 Z" class="roof-dormer"/>
+<path d="M 350.0 142.0 L 350.0 86.0 A 30.0 30.0 0 0 1 410.0 86.0 L 410.0 142.0 Z" class="win-frame"/>
+<line x1="370.0" y1="142.0" x2="370.0" y2="81.5" class="win-bar"/>
+<line x1="390.0" y1="142.0" x2="390.0" y2="81.5" class="win-bar"/>
+<line x1="350.0" y1="114.0" x2="410.0" y2="114.0" class="win-bar"/>
+<line x1="380.0" y1="86.0" x2="365.9" y2="59.5" class="win-bar-thin"/>
+<line x1="380.0" y1="86.0" x2="380.0" y2="56.0" class="win-bar-thin"/>
+<line x1="380.0" y1="86.0" x2="394.1" y2="59.5" class="win-bar-thin"/>
+<rect x="34.0" y="288.0" width="692.0" height="12" class="cornice"/>
+<rect x="40.0" y="414.0" width="680.0" height="8" class="cordon"/>
+<rect x="40.0" y="300.0" width="680.0" height="114.0" class="wall-upper"/>
+<path d="M 77.0 404.0 L 77.0 334.0 A 31.0 31.0 0 0 1 139.0 334.0 L 139.0 404.0 Z" class="win-frame"/>
+<line x1="97.7" y1="404.0" x2="97.7" y2="329.4" class="win-bar"/>
+<line x1="118.3" y1="404.0" x2="118.3" y2="329.4" class="win-bar"/>
+<line x1="77.0" y1="357.3" x2="139.0" y2="357.3" class="win-bar"/>
+<line x1="77.0" y1="380.7" x2="139.0" y2="380.7" class="win-bar"/>
+<line x1="108.0" y1="334.0" x2="93.4" y2="306.6" class="win-bar-thin"/>
+<line x1="108.0" y1="334.0" x2="108.0" y2="303.0" class="win-bar-thin"/>
+<line x1="108.0" y1="334.0" x2="122.6" y2="306.6" class="win-bar-thin"/>
+<line x1="71.0" y1="404.0" x2="145.0" y2="404.0" class="rail"/>
+<line x1="71.0" y1="404.0" x2="71.0" y2="418.0" class="rail"/>
+<line x1="145.0" y1="404.0" x2="145.0" y2="418.0" class="rail"/>
+<line x1="71.0" y1="404.0" x2="71.0" y2="418.0" class="rail-thin"/>
+<line x1="81.6" y1="404.0" x2="81.6" y2="418.0" class="rail-thin"/>
+<line x1="92.1" y1="404.0" x2="92.1" y2="418.0" class="rail-thin"/>
+<line x1="102.7" y1="404.0" x2="102.7" y2="418.0" class="rail-thin"/>
+<line x1="113.3" y1="404.0" x2="113.3" y2="418.0" class="rail-thin"/>
+<line x1="123.9" y1="404.0" x2="123.9" y2="418.0" class="rail-thin"/>
+<line x1="134.4" y1="404.0" x2="134.4" y2="418.0" class="rail-thin"/>
+<line x1="145.0" y1="404.0" x2="145.0" y2="418.0" class="rail-thin"/>
+<line x1="71.0" y1="411.0" x2="145.0" y2="411.0" class="rail-thin"/>
+<path d="M 213.0 404.0 L 213.0 334.0 A 31.0 31.0 0 0 1 275.0 334.0 L 275.0 404.0 Z" class="win-frame"/>
+<line x1="233.7" y1="404.0" x2="233.7" y2="329.4" class="win-bar"/>
+<line x1="254.3" y1="404.0" x2="254.3" y2="329.4" class="win-bar"/>
+<line x1="213.0" y1="357.3" x2="275.0" y2="357.3" class="win-bar"/>
+<line x1="213.0" y1="380.7" x2="275.0" y2="380.7" class="win-bar"/>
+<line x1="244.0" y1="334.0" x2="229.4" y2="306.6" class="win-bar-thin"/>
+<line x1="244.0" y1="334.0" x2="244.0" y2="303.0" class="win-bar-thin"/>
+<line x1="244.0" y1="334.0" x2="258.6" y2="306.6" class="win-bar-thin"/>
+<line x1="207.0" y1="404.0" x2="281.0" y2="404.0" class="rail"/>
+<line x1="207.0" y1="404.0" x2="207.0" y2="418.0" class="rail"/>
+<line x1="281.0" y1="404.0" x2="281.0" y2="418.0" class="rail"/>
+<line x1="207.0" y1="404.0" x2="207.0" y2="418.0" class="rail-thin"/>
+<line x1="217.6" y1="404.0" x2="217.6" y2="418.0" class="rail-thin"/>
+<line x1="228.1" y1="404.0" x2="228.1" y2="418.0" class="rail-thin"/>
+<line x1="238.7" y1="404.0" x2="238.7" y2="418.0" class="rail-thin"/>
+<line x1="249.3" y1="404.0" x2="249.3" y2="418.0" class="rail-thin"/>
+<line x1="259.9" y1="404.0" x2="259.9" y2="418.0" class="rail-thin"/>
+<line x1="270.4" y1="404.0" x2="270.4" y2="418.0" class="rail-thin"/>
+<line x1="281.0" y1="404.0" x2="281.0" y2="418.0" class="rail-thin"/>
+<line x1="207.0" y1="411.0" x2="281.0" y2="411.0" class="rail-thin"/>
+<path d="M 349.0 404.0 L 349.0 334.0 A 31.0 31.0 0 0 1 411.0 334.0 L 411.0 404.0 Z" class="win-frame"/>
+<line x1="369.7" y1="404.0" x2="369.7" y2="329.4" class="win-bar"/>
+<line x1="390.3" y1="404.0" x2="390.3" y2="329.4" class="win-bar"/>
+<line x1="349.0" y1="357.3" x2="411.0" y2="357.3" class="win-bar"/>
+<line x1="349.0" y1="380.7" x2="411.0" y2="380.7" class="win-bar"/>
+<line x1="380.0" y1="334.0" x2="365.4" y2="306.6" class="win-bar-thin"/>
+<line x1="380.0" y1="334.0" x2="380.0" y2="303.0" class="win-bar-thin"/>
+<line x1="380.0" y1="334.0" x2="394.6" y2="306.6" class="win-bar-thin"/>
+<line x1="343.0" y1="404.0" x2="417.0" y2="404.0" class="rail"/>
+<line x1="343.0" y1="404.0" x2="343.0" y2="418.0" class="rail"/>
+<line x1="417.0" y1="404.0" x2="417.0" y2="418.0" class="rail"/>
+<line x1="343.0" y1="404.0" x2="343.0" y2="418.0" class="rail-thin"/>
+<line x1="353.6" y1="404.0" x2="353.6" y2="418.0" class="rail-thin"/>
+<line x1="364.1" y1="404.0" x2="364.1" y2="418.0" class="rail-thin"/>
+<line x1="374.7" y1="404.0" x2="374.7" y2="418.0" class="rail-thin"/>
+<line x1="385.3" y1="404.0" x2="385.3" y2="418.0" class="rail-thin"/>
+<line x1="395.9" y1="404.0" x2="395.9" y2="418.0" class="rail-thin"/>
+<line x1="406.4" y1="404.0" x2="406.4" y2="418.0" class="rail-thin"/>
+<line x1="417.0" y1="404.0" x2="417.0" y2="418.0" class="rail-thin"/>
+<line x1="343.0" y1="411.0" x2="417.0" y2="411.0" class="rail-thin"/>
+<path d="M 485.0 404.0 L 485.0 334.0 A 31.0 31.0 0 0 1 547.0 334.0 L 547.0 404.0 Z" class="win-frame"/>
+<line x1="505.7" y1="404.0" x2="505.7" y2="329.4" class="win-bar"/>
+<line x1="526.3" y1="404.0" x2="526.3" y2="329.4" class="win-bar"/>
+<line x1="485.0" y1="357.3" x2="547.0" y2="357.3" class="win-bar"/>
+<line x1="485.0" y1="380.7" x2="547.0" y2="380.7" class="win-bar"/>
+<line x1="516.0" y1="334.0" x2="501.4" y2="306.6" class="win-bar-thin"/>
+<line x1="516.0" y1="334.0" x2="516.0" y2="303.0" class="win-bar-thin"/>
+<line x1="516.0" y1="334.0" x2="530.6" y2="306.6" class="win-bar-thin"/>
+<line x1="479.0" y1="404.0" x2="553.0" y2="404.0" class="rail"/>
+<line x1="479.0" y1="404.0" x2="479.0" y2="418.0" class="rail"/>
+<line x1="553.0" y1="404.0" x2="553.0" y2="418.0" class="rail"/>
+<line x1="479.0" y1="404.0" x2="479.0" y2="418.0" class="rail-thin"/>
+<line x1="489.6" y1="404.0" x2="489.6" y2="418.0" class="rail-thin"/>
+<line x1="500.1" y1="404.0" x2="500.1" y2="418.0" class="rail-thin"/>
+<line x1="510.7" y1="404.0" x2="510.7" y2="418.0" class="rail-thin"/>
+<line x1="521.3" y1="404.0" x2="521.3" y2="418.0" class="rail-thin"/>
+<line x1="531.9" y1="404.0" x2="531.9" y2="418.0" class="rail-thin"/>
+<line x1="542.4" y1="404.0" x2="542.4" y2="418.0" class="rail-thin"/>
+<line x1="553.0" y1="404.0" x2="553.0" y2="418.0" class="rail-thin"/>
+<line x1="479.0" y1="411.0" x2="553.0" y2="411.0" class="rail-thin"/>
+<path d="M 621.0 404.0 L 621.0 334.0 A 31.0 31.0 0 0 1 683.0 334.0 L 683.0 404.0 Z" class="win-frame"/>
+<line x1="641.7" y1="404.0" x2="641.7" y2="329.4" class="win-bar"/>
+<line x1="662.3" y1="404.0" x2="662.3" y2="329.4" class="win-bar"/>
+<line x1="621.0" y1="357.3" x2="683.0" y2="357.3" class="win-bar"/>
+<line x1="621.0" y1="380.7" x2="683.0" y2="380.7" class="win-bar"/>
+<line x1="652.0" y1="334.0" x2="637.4" y2="306.6" class="win-bar-thin"/>
+<line x1="652.0" y1="334.0" x2="652.0" y2="303.0" class="win-bar-thin"/>
+<line x1="652.0" y1="334.0" x2="666.6" y2="306.6" class="win-bar-thin"/>
+<line x1="615.0" y1="404.0" x2="689.0" y2="404.0" class="rail"/>
+<line x1="615.0" y1="404.0" x2="615.0" y2="418.0" class="rail"/>
+<line x1="689.0" y1="404.0" x2="689.0" y2="418.0" class="rail"/>
+<line x1="615.0" y1="404.0" x2="615.0" y2="418.0" class="rail-thin"/>
+<line x1="625.6" y1="404.0" x2="625.6" y2="418.0" class="rail-thin"/>
+<line x1="636.1" y1="404.0" x2="636.1" y2="418.0" class="rail-thin"/>
+<line x1="646.7" y1="404.0" x2="646.7" y2="418.0" class="rail-thin"/>
+<line x1="657.3" y1="404.0" x2="657.3" y2="418.0" class="rail-thin"/>
+<line x1="667.9" y1="404.0" x2="667.9" y2="418.0" class="rail-thin"/>
+<line x1="678.4" y1="404.0" x2="678.4" y2="418.0" class="rail-thin"/>
+<line x1="689.0" y1="404.0" x2="689.0" y2="418.0" class="rail-thin"/>
+<line x1="615.0" y1="411.0" x2="689.0" y2="411.0" class="rail-thin"/>
+<rect x="171.5" y="308.0" width="9.0" height="102.0" class="pilaster"/>
+<rect x="168.5" y="302.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="168.5" y="410.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="307.5" y="308.0" width="9.0" height="102.0" class="pilaster"/>
+<rect x="304.5" y="302.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="304.5" y="410.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="443.5" y="308.0" width="9.0" height="102.0" class="pilaster"/>
+<rect x="440.5" y="302.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="440.5" y="410.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="579.5" y="308.0" width="9.0" height="102.0" class="pilaster"/>
+<rect x="576.5" y="302.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="576.5" y="410.0" width="15.0" height="6" class="pilaster-cap"/>
+<rect x="40.0" y="424.0" width="680.0" height="28.0" class="band"/>
+<text x="380.0" y="443.0" class="medallion-txt" text-anchor="middle">CHOLODENKO’S</text>
+<path d="M 262.0 432.0 L 268.0 438.0 L 262.0 444.0 L 256.0 438.0 Z" class="medallion"/>
+<path d="M 498.0 432.0 L 504.0 438.0 L 498.0 444.0 L 492.0 438.0 Z" class="medallion"/>
+<line x1="110.0" y1="430.0" x2="110.0" y2="408.0" class="sconce-arm"/>
+<circle cx="110.0" cy="404.0" r="7" class="sconce-lamp"/>
+<line x1="650.0" y1="430.0" x2="650.0" y2="408.0" class="sconce-arm"/>
+<circle cx="650.0" cy="404.0" r="7" class="sconce-lamp"/>
+<rect x="40.0" y="452.0" width="680.0" height="108.0" class="stone-base"/>
+<line x1="58.0" y1="459.0" x2="78.5" y2="459.0" class="stone-line"/>
+<line x1="82.5" y1="459.0" x2="100.6" y2="459.0" class="stone-line"/>
+<line x1="104.6" y1="459.0" x2="129.8" y2="459.0" class="stone-line"/>
+<line x1="133.8" y1="459.0" x2="150.8" y2="459.0" class="stone-line"/>
+<line x1="154.8" y1="459.0" x2="178.3" y2="459.0" class="stone-line"/>
+<line x1="182.3" y1="459.0" x2="203.4" y2="459.0" class="stone-line"/>
+<line x1="207.4" y1="459.0" x2="224.2" y2="459.0" class="stone-line"/>
+<line x1="228.2" y1="459.0" x2="251.3" y2="459.0" class="stone-line"/>
+<line x1="255.3" y1="459.0" x2="271.8" y2="459.0" class="stone-line"/>
+<line x1="275.8" y1="459.0" x2="297.9" y2="459.0" class="stone-line"/>
+<line x1="301.9" y1="459.0" x2="318.9" y2="459.0" class="stone-line"/>
+<line x1="322.9" y1="459.0" x2="340.2" y2="459.0" class="stone-line"/>
+<line x1="344.2" y1="459.0" x2="366.1" y2="459.0" class="stone-line"/>
+<line x1="370.1" y1="459.0" x2="397.7" y2="459.0" class="stone-line"/>
+<line x1="401.7" y1="459.0" x2="419.4" y2="459.0" class="stone-line"/>
+<line x1="423.4" y1="459.0" x2="442.5" y2="459.0" class="stone-line"/>
+<line x1="446.5" y1="459.0" x2="471.3" y2="459.0" class="stone-line"/>
+<line x1="475.3" y1="459.0" x2="504.6" y2="459.0" class="stone-line"/>
+<line x1="508.6" y1="459.0" x2="532.7" y2="459.0" class="stone-line"/>
+<line x1="536.7" y1="459.0" x2="558.2" y2="459.0" class="stone-line"/>
+<line x1="562.2" y1="459.0" x2="591.9" y2="459.0" class="stone-line"/>
+<line x1="595.9" y1="459.0" x2="612.5" y2="459.0" class="stone-line"/>
+<line x1="616.5" y1="459.0" x2="644.6" y2="459.0" class="stone-line"/>
+<line x1="648.6" y1="459.0" x2="668.6" y2="459.0" class="stone-line"/>
+<line x1="672.6" y1="459.0" x2="690.6" y2="459.0" class="stone-line"/>
+<line x1="694.6" y1="459.0" x2="712.3" y2="459.0" class="stone-line"/>
+<line x1="716.3" y1="459.0" x2="720.0" y2="459.0" class="stone-line"/>
+<line x1="40.0" y1="466.0" x2="720.0" y2="466.0" class="stone-line-faint"/>
+<line x1="40.0" y1="473.0" x2="67.4" y2="473.0" class="stone-line"/>
+<line x1="71.4" y1="473.0" x2="90.0" y2="473.0" class="stone-line"/>
+<line x1="94.0" y1="473.0" x2="118.1" y2="473.0" class="stone-line"/>
+<line x1="122.1" y1="473.0" x2="147.0" y2="473.0" class="stone-line"/>
+<line x1="151.0" y1="473.0" x2="172.3" y2="473.0" class="stone-line"/>
+<line x1="176.3" y1="473.0" x2="199.9" y2="473.0" class="stone-line"/>
+<line x1="203.9" y1="473.0" x2="220.8" y2="473.0" class="stone-line"/>
+<line x1="224.8" y1="473.0" x2="241.6" y2="473.0" class="stone-line"/>
+<line x1="245.6" y1="473.0" x2="264.5" y2="473.0" class="stone-line"/>
+<line x1="268.5" y1="473.0" x2="294.0" y2="473.0" class="stone-line"/>
+<line x1="298.0" y1="473.0" x2="320.0" y2="473.0" class="stone-line"/>
+<line x1="324.0" y1="473.0" x2="344.4" y2="473.0" class="stone-line"/>
+<line x1="348.4" y1="473.0" x2="372.6" y2="473.0" class="stone-line"/>
+<line x1="376.6" y1="473.0" x2="399.0" y2="473.0" class="stone-line"/>
+<line x1="403.0" y1="473.0" x2="423.2" y2="473.0" class="stone-line"/>
+<line x1="427.2" y1="473.0" x2="454.3" y2="473.0" class="stone-line"/>
+<line x1="458.3" y1="473.0" x2="484.1" y2="473.0" class="stone-line"/>
+<line x1="488.1" y1="473.0" x2="507.5" y2="473.0" class="stone-line"/>
+<line x1="511.5" y1="473.0" x2="535.5" y2="473.0" class="stone-line"/>
+<line x1="539.5" y1="473.0" x2="562.9" y2="473.0" class="stone-line"/>
+<line x1="566.9" y1="473.0" x2="595.1" y2="473.0" class="stone-line"/>
+<line x1="599.1" y1="473.0" x2="625.4" y2="473.0" class="stone-line"/>
+<line x1="629.4" y1="473.0" x2="649.4" y2="473.0" class="stone-line"/>
+<line x1="653.4" y1="473.0" x2="683.1" y2="473.0" class="stone-line"/>
+<line x1="687.1" y1="473.0" x2="704.8" y2="473.0" class="stone-line"/>
+<line x1="708.8" y1="473.0" x2="720.0" y2="473.0" class="stone-line"/>
+<line x1="40.0" y1="480.0" x2="720.0" y2="480.0" class="stone-line-faint"/>
+<line x1="58.0" y1="487.0" x2="84.6" y2="487.0" class="stone-line"/>
+<line x1="88.6" y1="487.0" x2="106.7" y2="487.0" class="stone-line"/>
+<line x1="110.7" y1="487.0" x2="133.6" y2="487.0" class="stone-line"/>
+<line x1="137.6" y1="487.0" x2="154.1" y2="487.0" class="stone-line"/>
+<line x1="158.1" y1="487.0" x2="183.5" y2="487.0" class="stone-line"/>
+<line x1="187.5" y1="487.0" x2="214.2" y2="487.0" class="stone-line"/>
+<line x1="218.2" y1="487.0" x2="242.2" y2="487.0" class="stone-line"/>
+<line x1="246.2" y1="487.0" x2="274.5" y2="487.0" class="stone-line"/>
+<line x1="278.5" y1="487.0" x2="298.9" y2="487.0" class="stone-line"/>
+<line x1="302.9" y1="487.0" x2="328.6" y2="487.0" class="stone-line"/>
+<line x1="332.6" y1="487.0" x2="356.9" y2="487.0" class="stone-line"/>
+<line x1="360.9" y1="487.0" x2="385.0" y2="487.0" class="stone-line"/>
+<line x1="389.0" y1="487.0" x2="411.4" y2="487.0" class="stone-line"/>
+<line x1="415.4" y1="487.0" x2="443.2" y2="487.0" class="stone-line"/>
+<line x1="447.2" y1="487.0" x2="476.4" y2="487.0" class="stone-line"/>
+<line x1="480.4" y1="487.0" x2="503.0" y2="487.0" class="stone-line"/>
+<line x1="507.0" y1="487.0" x2="532.3" y2="487.0" class="stone-line"/>
+<line x1="536.3" y1="487.0" x2="553.2" y2="487.0" class="stone-line"/>
+<line x1="557.2" y1="487.0" x2="583.0" y2="487.0" class="stone-line"/>
+<line x1="587.0" y1="487.0" x2="612.1" y2="487.0" class="stone-line"/>
+<line x1="616.1" y1="487.0" x2="646.0" y2="487.0" class="stone-line"/>
+<line x1="650.0" y1="487.0" x2="677.5" y2="487.0" class="stone-line"/>
+<line x1="681.5" y1="487.0" x2="701.5" y2="487.0" class="stone-line"/>
+<line x1="705.5" y1="487.0" x2="720.0" y2="487.0" class="stone-line"/>
+<line x1="40.0" y1="494.0" x2="720.0" y2="494.0" class="stone-line-faint"/>
+<line x1="40.0" y1="501.0" x2="65.4" y2="501.0" class="stone-line"/>
+<line x1="69.4" y1="501.0" x2="85.7" y2="501.0" class="stone-line"/>
+<line x1="89.7" y1="501.0" x2="112.1" y2="501.0" class="stone-line"/>
+<line x1="116.1" y1="501.0" x2="134.5" y2="501.0" class="stone-line"/>
+<line x1="138.5" y1="501.0" x2="156.1" y2="501.0" class="stone-line"/>
+<line x1="160.1" y1="501.0" x2="177.0" y2="501.0" class="stone-line"/>
+<line x1="181.0" y1="501.0" x2="207.7" y2="501.0" class="stone-line"/>
+<line x1="211.7" y1="501.0" x2="229.5" y2="501.0" class="stone-line"/>
+<line x1="233.5" y1="501.0" x2="253.0" y2="501.0" class="stone-line"/>
+<line x1="257.0" y1="501.0" x2="278.5" y2="501.0" class="stone-line"/>
+<line x1="282.5" y1="501.0" x2="310.7" y2="501.0" class="stone-line"/>
+<line x1="314.7" y1="501.0" x2="331.8" y2="501.0" class="stone-line"/>
+<line x1="335.8" y1="501.0" x2="358.1" y2="501.0" class="stone-line"/>
+<line x1="362.1" y1="501.0" x2="385.8" y2="501.0" class="stone-line"/>
+<line x1="389.8" y1="501.0" x2="418.1" y2="501.0" class="stone-line"/>
+<line x1="422.1" y1="501.0" x2="449.6" y2="501.0" class="stone-line"/>
+<line x1="453.6" y1="501.0" x2="481.7" y2="501.0" class="stone-line"/>
+<line x1="485.7" y1="501.0" x2="505.6" y2="501.0" class="stone-line"/>
+<line x1="509.6" y1="501.0" x2="531.4" y2="501.0" class="stone-line"/>
+<line x1="535.4" y1="501.0" x2="556.4" y2="501.0" class="stone-line"/>
+<line x1="560.4" y1="501.0" x2="588.8" y2="501.0" class="stone-line"/>
+<line x1="592.8" y1="501.0" x2="622.2" y2="501.0" class="stone-line"/>
+<line x1="626.2" y1="501.0" x2="644.3" y2="501.0" class="stone-line"/>
+<line x1="648.3" y1="501.0" x2="666.8" y2="501.0" class="stone-line"/>
+<line x1="670.8" y1="501.0" x2="690.1" y2="501.0" class="stone-line"/>
+<line x1="694.1" y1="501.0" x2="713.3" y2="501.0" class="stone-line"/>
+<line x1="717.3" y1="501.0" x2="720.0" y2="501.0" class="stone-line"/>
+<line x1="40.0" y1="508.0" x2="720.0" y2="508.0" class="stone-line-faint"/>
+<line x1="58.0" y1="515.0" x2="82.2" y2="515.0" class="stone-line"/>
+<line x1="86.2" y1="515.0" x2="105.9" y2="515.0" class="stone-line"/>
+<line x1="109.9" y1="515.0" x2="126.0" y2="515.0" class="stone-line"/>
+<line x1="130.0" y1="515.0" x2="151.8" y2="515.0" class="stone-line"/>
+<line x1="155.8" y1="515.0" x2="177.0" y2="515.0" class="stone-line"/>
+<line x1="181.0" y1="515.0" x2="204.9" y2="515.0" class="stone-line"/>
+<line x1="208.9" y1="515.0" x2="238.3" y2="515.0" class="stone-line"/>
+<line x1="242.3" y1="515.0" x2="268.0" y2="515.0" class="stone-line"/>
+<line x1="272.0" y1="515.0" x2="295.2" y2="515.0" class="stone-line"/>
+<line x1="299.2" y1="515.0" x2="323.8" y2="515.0" class="stone-line"/>
+<line x1="327.8" y1="515.0" x2="353.3" y2="515.0" class="stone-line"/>
+<line x1="357.3" y1="515.0" x2="374.0" y2="515.0" class="stone-line"/>
+<line x1="378.0" y1="515.0" x2="406.6" y2="515.0" class="stone-line"/>
+<line x1="410.6" y1="515.0" x2="437.6" y2="515.0" class="stone-line"/>
+<line x1="441.6" y1="515.0" x2="469.8" y2="515.0" class="stone-line"/>
+<line x1="473.8" y1="515.0" x2="501.0" y2="515.0" class="stone-line"/>
+<line x1="505.0" y1="515.0" x2="526.5" y2="515.0" class="stone-line"/>
+<line x1="530.5" y1="515.0" x2="552.0" y2="515.0" class="stone-line"/>
+<line x1="556.0" y1="515.0" x2="573.5" y2="515.0" class="stone-line"/>
+<line x1="577.5" y1="515.0" x2="602.4" y2="515.0" class="stone-line"/>
+<line x1="606.4" y1="515.0" x2="623.2" y2="515.0" class="stone-line"/>
+<line x1="627.2" y1="515.0" x2="644.2" y2="515.0" class="stone-line"/>
+<line x1="648.2" y1="515.0" x2="667.1" y2="515.0" class="stone-line"/>
+<line x1="671.1" y1="515.0" x2="689.4" y2="515.0" class="stone-line"/>
+<line x1="693.4" y1="515.0" x2="714.1" y2="515.0" class="stone-line"/>
+<line x1="718.1" y1="515.0" x2="720.0" y2="515.0" class="stone-line"/>
+<line x1="40.0" y1="522.0" x2="720.0" y2="522.0" class="stone-line-faint"/>
+<line x1="40.0" y1="529.0" x2="56.0" y2="529.0" class="stone-line"/>
+<line x1="60.0" y1="529.0" x2="78.1" y2="529.0" class="stone-line"/>
+<line x1="82.1" y1="529.0" x2="99.5" y2="529.0" class="stone-line"/>
+<line x1="103.5" y1="529.0" x2="124.6" y2="529.0" class="stone-line"/>
+<line x1="128.6" y1="529.0" x2="145.0" y2="529.0" class="stone-line"/>
+<line x1="149.0" y1="529.0" x2="177.2" y2="529.0" class="stone-line"/>
+<line x1="181.2" y1="529.0" x2="205.8" y2="529.0" class="stone-line"/>
+<line x1="209.8" y1="529.0" x2="227.9" y2="529.0" class="stone-line"/>
+<line x1="231.9" y1="529.0" x2="251.4" y2="529.0" class="stone-line"/>
+<line x1="255.4" y1="529.0" x2="276.3" y2="529.0" class="stone-line"/>
+<line x1="280.3" y1="529.0" x2="301.4" y2="529.0" class="stone-line"/>
+<line x1="305.4" y1="529.0" x2="323.1" y2="529.0" class="stone-line"/>
+<line x1="327.1" y1="529.0" x2="355.0" y2="529.0" class="stone-line"/>
+<line x1="359.0" y1="529.0" x2="388.9" y2="529.0" class="stone-line"/>
+<line x1="392.9" y1="529.0" x2="415.4" y2="529.0" class="stone-line"/>
+<line x1="419.4" y1="529.0" x2="442.2" y2="529.0" class="stone-line"/>
+<line x1="446.2" y1="529.0" x2="463.4" y2="529.0" class="stone-line"/>
+<line x1="467.4" y1="529.0" x2="484.8" y2="529.0" class="stone-line"/>
+<line x1="488.8" y1="529.0" x2="509.6" y2="529.0" class="stone-line"/>
+<line x1="513.6" y1="529.0" x2="533.3" y2="529.0" class="stone-line"/>
+<line x1="537.3" y1="529.0" x2="564.9" y2="529.0" class="stone-line"/>
+<line x1="568.9" y1="529.0" x2="587.2" y2="529.0" class="stone-line"/>
+<line x1="591.2" y1="529.0" x2="607.5" y2="529.0" class="stone-line"/>
+<line x1="611.5" y1="529.0" x2="640.8" y2="529.0" class="stone-line"/>
+<line x1="644.8" y1="529.0" x2="668.2" y2="529.0" class="stone-line"/>
+<line x1="672.2" y1="529.0" x2="690.3" y2="529.0" class="stone-line"/>
+<line x1="694.3" y1="529.0" x2="717.9" y2="529.0" class="stone-line"/>
+<line x1="40.0" y1="536.0" x2="720.0" y2="536.0" class="stone-line-faint"/>
+<line x1="58.0" y1="543.0" x2="74.4" y2="543.0" class="stone-line"/>
+<line x1="78.4" y1="543.0" x2="101.8" y2="543.0" class="stone-line"/>
+<line x1="105.8" y1="543.0" x2="135.5" y2="543.0" class="stone-line"/>
+<line x1="139.5" y1="543.0" x2="167.6" y2="543.0" class="stone-line"/>
+<line x1="171.6" y1="543.0" x2="197.3" y2="543.0" class="stone-line"/>
+<line x1="201.3" y1="543.0" x2="221.0" y2="543.0" class="stone-line"/>
+<line x1="225.0" y1="543.0" x2="246.1" y2="543.0" class="stone-line"/>
+<line x1="250.1" y1="543.0" x2="268.4" y2="543.0" class="stone-line"/>
+<line x1="272.4" y1="543.0" x2="299.2" y2="543.0" class="stone-line"/>
+<line x1="303.2" y1="543.0" x2="326.7" y2="543.0" class="stone-line"/>
+<line x1="330.7" y1="543.0" x2="357.6" y2="543.0" class="stone-line"/>
+<line x1="361.6" y1="543.0" x2="382.2" y2="543.0" class="stone-line"/>
+<line x1="386.2" y1="543.0" x2="405.3" y2="543.0" class="stone-line"/>
+<line x1="409.3" y1="543.0" x2="436.7" y2="543.0" class="stone-line"/>
+<line x1="440.7" y1="543.0" x2="470.5" y2="543.0" class="stone-line"/>
+<line x1="474.5" y1="543.0" x2="502.4" y2="543.0" class="stone-line"/>
+<line x1="506.4" y1="543.0" x2="533.7" y2="543.0" class="stone-line"/>
+<line x1="537.7" y1="543.0" x2="565.2" y2="543.0" class="stone-line"/>
+<line x1="569.2" y1="543.0" x2="595.5" y2="543.0" class="stone-line"/>
+<line x1="599.5" y1="543.0" x2="618.7" y2="543.0" class="stone-line"/>
+<line x1="622.7" y1="543.0" x2="645.9" y2="543.0" class="stone-line"/>
+<line x1="649.9" y1="543.0" x2="670.9" y2="543.0" class="stone-line"/>
+<line x1="674.9" y1="543.0" x2="691.3" y2="543.0" class="stone-line"/>
+<line x1="695.3" y1="543.0" x2="711.7" y2="543.0" class="stone-line"/>
+<line x1="715.7" y1="543.0" x2="720.0" y2="543.0" class="stone-line"/>
+<line x1="40.0" y1="550.0" x2="720.0" y2="550.0" class="stone-line-faint"/>
+<path d="M 342.0 560.0 L 342.0 486.0 A 38.0 38.0 0 0 1 418.0 486.0 L 418.0 560.0 Z" class="door"/>
+<line x1="380.0" y1="560.0" x2="380.0" y2="474.0" class="door-bar"/>
+<line x1="342.0" y1="504.5" x2="418.0" y2="504.5" class="door-bar-thin"/>
+<line x1="342.0" y1="523.0" x2="418.0" y2="523.0" class="door-bar-thin"/>
+<line x1="342.0" y1="541.5" x2="418.0" y2="541.5" class="door-bar-thin"/>
+<rect x="78.0" y="472.0" width="64.0" height="58.0" class="win-frame"/>
+<line x1="99.3" y1="472.0" x2="99.3" y2="530.0" class="win-bar"/>
+<line x1="120.7" y1="472.0" x2="120.7" y2="530.0" class="win-bar"/>
+<line x1="78.0" y1="501.0" x2="142.0" y2="501.0" class="win-bar"/>
+<rect x="158.0" y="472.0" width="64.0" height="58.0" class="win-frame"/>
+<line x1="179.3" y1="472.0" x2="179.3" y2="530.0" class="win-bar"/>
+<line x1="200.7" y1="472.0" x2="200.7" y2="530.0" class="win-bar"/>
+<line x1="158.0" y1="501.0" x2="222.0" y2="501.0" class="win-bar"/>
+<rect x="538.0" y="472.0" width="64.0" height="58.0" class="win-frame"/>
+<line x1="559.3" y1="472.0" x2="559.3" y2="530.0" class="win-bar"/>
+<line x1="580.7" y1="472.0" x2="580.7" y2="530.0" class="win-bar"/>
+<line x1="538.0" y1="501.0" x2="602.0" y2="501.0" class="win-bar"/>
+<rect x="618.0" y="472.0" width="64.0" height="58.0" class="win-frame"/>
+<line x1="639.3" y1="472.0" x2="639.3" y2="530.0" class="win-bar"/>
+<line x1="660.7" y1="472.0" x2="660.7" y2="530.0" class="win-bar"/>
+<line x1="618.0" y1="501.0" x2="682.0" y2="501.0" class="win-bar"/>
+<text x="380.0" y="594.0" class="cap" text-anchor="middle">FRONT ELEVATION · 1/8&#8243; = 1&#8242;-0&#8243; (approx.)</text>
+</svg>
