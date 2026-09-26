@@ -70,7 +70,12 @@
 .awning-stripe{ stroke:#3E5878; stroke-width:2; opacity:.7; }
 .awning-bracket{ stroke:#8B806E; stroke-width:1.8; }
 .awning-text{ font-family:'Cormorant Garamond',Georgia,serif; font-weight:600; letter-spacing:.13em; fill:#E4C583; }
-.awning-rule{ stroke:#E4C583; stroke-width:1; opacity:.8; }</style>
+.awning-rule{ stroke:#E4C583; stroke-width:1; opacity:.8; }
+
+.site-boundary{ fill:none; stroke:#767676; stroke-width:1; stroke-dasharray:3 2; }
+.site-inn{ fill:#E7D9C2; stroke:#111111; stroke-width:1.4; }
+.site-gh{ fill:#EADFC5; stroke:#111111; stroke-width:1.4; }
+.site-drive{ stroke:#767676; stroke-width:2; stroke-dasharray:1 2.5; }</style>
 <rect x="46.0" y="34.0" width="576.0" height="495.0" class="wall" />
 <rect x="46.0" y="34.0" width="90.0" height="126.0" class="room-fill room-guest" />
 <rect x="136.0" y="34.0" width="72.0" height="126.0" class="room-fill room-service" />
@@ -86,6 +91,8 @@
 <rect x="46.0" y="295.0" width="144.0" height="135.0" class="room-fill room-guest" />
 <rect x="478.0" y="160.0" width="144.0" height="135.0" class="room-fill room-guest" />
 <rect x="478.0" y="295.0" width="144.0" height="135.0" class="room-fill room-guest" />
+<rect x="46.0" y="430.0" width="144.0" height="99.0" class="room-fill room-service" />
+<rect x="478.0" y="430.0" width="144.0" height="99.0" class="room-fill room-service" />
 <rect x="190.0" y="160.0" width="72.0" height="369.0" class="room-fill room-circ" />
 <rect x="406.0" y="160.0" width="72.0" height="369.0" class="room-fill room-circ" />
 <rect x="136.0" y="160.0" width="54.0" height="45.0" class="room-fill room-bath" />
@@ -103,6 +110,8 @@
 <line x1="406.0" y1="160.0" x2="406.0" y2="529.0" class="wallline"/>
 <line x1="46.0" y1="295.0" x2="190.0" y2="295.0" class="wallline"/>
 <line x1="478.0" y1="295.0" x2="622.0" y2="295.0" class="wallline"/>
+<line x1="46.0" y1="430.0" x2="190.0" y2="430.0" class="wallline"/>
+<line x1="478.0" y1="430.0" x2="622.0" y2="430.0" class="wallline"/>
 <line x1="190.0" y1="430.0" x2="262.0" y2="430.0" class="wallline"/>
 <line x1="406.0" y1="430.0" x2="478.0" y2="430.0" class="wallline"/>
 <line x1="262.0" y1="304.0" x2="406.0" y2="304.0" class="wallline"/>
@@ -183,6 +192,10 @@
 <path d="M 217.0 430.0 L 244.0 430.0 A 27.0 27.0 0 0 1 217.0 457.0 Z" class="doorarc"/>
 <line x1="415.0" y1="430.0" x2="451.0" y2="430.0" class="doorcut"/>
 <path d="M 415.0 430.0 L 415.0 457.0 A 27.0 27.0 0 0 1 388.0 430.0 Z" class="doorarc"/>
+<line x1="190.0" y1="457.0" x2="190.0" y2="484.0" class="doorcut"/>
+<path d="M 190.0 484.0 L 217.0 484.0 A 27.0 27.0 0 0 1 190.0 511.0 Z" class="doorarc"/>
+<line x1="478.0" y1="457.0" x2="478.0" y2="484.0" class="doorcut"/>
+<path d="M 478.0 457.0 L 478.0 484.0 A 27.0 27.0 0 0 1 451.0 457.0 Z" class="doorarc"/>
 <line x1="262.0" y1="61.0" x2="262.0" y2="88.0" class="doorcut"/>
 <path d="M 262.0 88.0 L 262.0 115.0 A 27.0 27.0 0 0 1 235.0 88.0 Z" class="doorarc"/>
 <line x1="406.0" y1="61.0" x2="406.0" y2="88.0" class="doorcut"/>
@@ -240,6 +253,10 @@
 <text x="118.0" y="364.8" class="lbl-dim-sm" text-anchor="middle">210 sf</text>
 <text x="550.0" y="353.1" class="lbl-room" text-anchor="middle">ROOM 204</text>
 <text x="550.0" y="364.8" class="lbl-dim-sm" text-anchor="middle">210 sf</text>
+<text x="118.0" y="474.6" class="lbl-room-sm" text-anchor="middle">LINEN STORAGE</text>
+<text x="118.0" y="486.2" class="lbl-dim-sm" text-anchor="middle">16′ × 11′ · 176 sf</text>
+<text x="550.0" y="474.6" class="lbl-room-sm" text-anchor="middle">LINEN STORAGE</text>
+<text x="550.0" y="486.2" class="lbl-dim-sm" text-anchor="middle">16′ × 11′ · 176 sf</text>
 <text x="334.0" y="245.0" class="lbl-room" text-anchor="middle">LAUNDRY</text>
 <text x="334.0" y="256.8" class="lbl-dim-sm" text-anchor="middle">16′ × 12′ · 192 sf</text>
 <text x="298.0" y="344.1" class="lbl-room-sm" text-anchor="middle">STORAGE</text>
