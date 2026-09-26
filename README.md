@@ -22,7 +22,7 @@ An eight-room inn should feel like a good story rather than a courthouse, so the
 ## Program, at a glance
 
 - **8 guest rooms**, all en suite (4 ground floor, 4 second floor — 2 per side per floor), 210 sf net each
-- **2 sitting parlors** flanking the check-in foyer, with an owner's suite and a second-floor guest lounge (336 sf each) directly above them, flanking the stair landing
+- **2 sitting parlors** flanking the check-in foyer, with a small guest spa and a second-floor guest lounge (336 sf each) directly above them, flanking the stair landing
 - **Dining room (336 sf) + kitchen (256 sf)** behind the foyer, between the two guest wings — dining sized larger than the kitchen, the standard ratio for a B&B serving breakfast to its own guests rather than running a full restaurant line
 - **3 levels**: 2 stories plus an attic (dormer reading nook + unfinished storage/mechanical)
 - **Redundant vertical circulation**: an enclosed, 1-hour-rated stair at the end of each wing's corridor, plus an open main stair in the foyer and a second-floor hall connecting both wings — no guest room depends on a single stair
@@ -37,6 +37,17 @@ The footprint grew from an initial 48'-deep pass to **64' × 55'** once the stai
 - **Corridors:** 8'-0" clear, well past the 44" commercial minimum, and wide enough to double as the stair shaft's width without a wall jog
 - **Doors:** guest room doors 3'-0" clear, main entry a 6'-0" double door
 - **Building height:** grade to ridge estimated at 36'–38' — worth checking against the site's zoning height limit (commonly 35' in Jackson County residential and commercial zones) before the roof pitch is locked in
+
+## The second-floor spa fits in 336 sf
+
+The space west of the stair landing — 24' × 14', formerly framed as an owner's suite — is now a small guest spa: a private treatment table, a two-chair salon floor (hair, mani/pedi), and its own waiting area, all checked against the footprint rather than assumed:
+
+- **Treatment room, 140 sf** (10' × 14'), walled off with its own door — a 30" × 78" massage/facial table needs roughly this much room to work around
+- **Salon floor, 112 sf** (8' × 14'), split front-to-back: a hair station with mirror and counter, a mani/pedi station behind it — each station only needs 35–50 sf
+- **Waiting area, 54 sf** (6' × 9'), just inside the door: a loveseat, two chairs, a small table
+- **Restroom, 30 sf** — the suite's former bath, now doing double duty as the spa's restroom and linen storage
+
+Water and drain lines already run to that wall for the bath, which helps if a pedicure basin ever needs plumbing rather than a portable bowl. Nail and hair chemicals want mechanical exhaust ventilation beyond a bathroom fan, and Oregon licenses massage therapists, cosmetologists, and nail techs separately — worth a conversation with Jackson County Building Safety and the relevant state licensing boards before build-out. Converting this room from an owner's suite to a spa also means the innkeeper's own quarters need to live somewhere else on the property, worth deciding early since Ashland's ordinance leans on an on-site owner-manager.
 
 ## Jackson County, Oregon — commercial code notes to raise early
 
