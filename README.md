@@ -22,8 +22,8 @@ An eight-room inn should feel like a good story rather than a courthouse, so the
 ## Program, at a glance
 
 - **8 guest rooms**, all en suite (4 ground floor, 4 second floor — 2 per side per floor), 210 sf net each
-- **2 sitting parlors** flanking the check-in foyer
-- **Dining room (256 sf) + kitchen (336 sf)** behind the foyer, between the two guest wings
+- **2 sitting parlors** flanking the check-in foyer, with an owner's suite and a second-floor guest lounge (336 sf each) directly above them, flanking the stair landing
+- **Dining room (336 sf) + kitchen (256 sf)** behind the foyer, between the two guest wings — dining sized larger than the kitchen, the standard ratio for a B&B serving breakfast to its own guests rather than running a full restaurant line
 - **3 levels**: 2 stories plus an attic (dormer reading nook + unfinished storage/mechanical)
 - **Redundant vertical circulation**: an enclosed, 1-hour-rated stair at the end of each wing's corridor, plus an open main stair in the foyer and a second-floor hall connecting both wings — no guest room depends on a single stair
 

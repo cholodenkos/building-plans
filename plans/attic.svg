@@ -1,67 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 652 575" class="planart" role="img" aria-label="Attic level plan of the eight-room bed and breakfast"><style>svg.planart,svg.elevart{ background:#F1E7D2; }
-.wall{ fill:#F6EFDC; stroke:#2A2117; stroke-width:2.4; }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 652 575" class="planart" role="img" aria-label="Attic level plan of the eight-room bed and breakfast"><style>svg.planart,svg.elevart{ background:#FFFFFF; }
+.wall{ fill:#F6EFDC; stroke:#111111; stroke-width:2.4; }
 .room-public{ fill:#DCE1E9; }
 .room-service{ fill:#E7D9C2; }
 .room-guest{ fill:#EADFC5; }
-.room-circ{ fill:#F1E7D2; }
+.room-circ{ fill:#FFFFFF; }
 .room-bath{ fill:#D9E1E4; }
 .room-attic{ fill:#EFE6D2; }
 .room-nook{ fill:#E3D8B9; }
-.wallline{ stroke:#2A2117; stroke-width:1.6; }
-.kneewall{ fill:none; stroke:#6B5B45; stroke-width:1.2; stroke-dasharray:5 4; }
+.wallline{ stroke:#111111; stroke-width:1.6; }
+.kneewall{ fill:none; stroke:#444444; stroke-width:1.2; stroke-dasharray:5 4; }
 .doorcut{ stroke:#F6EFDC; stroke-width:3; }
-.doorarc{ fill:none; stroke:#6B5B45; stroke-width:1; }
-.archcut{ stroke:#DCE3D3; stroke-width:3; stroke-dasharray:1 3; }
+.doorarc{ fill:none; stroke:#444444; stroke-width:1; }
+.archcut{ stroke:#DCE1E9; stroke-width:3; stroke-dasharray:1 3; }
 .window{ stroke:#3B4A66; stroke-width:3; }
-.stairbox{ fill:#FBF6EA; stroke:#2A2117; stroke-width:1.2; }
-.stairstep{ stroke:#6B5B45; stroke-width:1; }
-.stairarrow{ fill:#6B5B45; }
-.compass{ fill:none; stroke:#6B5B45; stroke-width:1; }
+.stairbox{ fill:#F7F7F8; stroke:#111111; stroke-width:1.2; }
+.stairstep{ stroke:#444444; stroke-width:1; }
+.stairarrow{ fill:#444444; }
+.compass{ fill:none; stroke:#444444; stroke-width:1; }
 .compass-needle{ fill:#A8743A; }
-.scalebar{ stroke:#2A2117; stroke-width:1.2; }
-.dimline{ stroke:#9C8A6C; stroke-width:1; }
-.dimtick{ stroke:#9C8A6C; stroke-width:1; }
-.lbl,.lbl-room,.lbl-room-sm,.lbl-dim,.lbl-dim-sm,.lbl-tiny{ font-family:'Josefin Sans',Futura,sans-serif; fill:#2A2117; }
+.scalebar{ stroke:#111111; stroke-width:1.2; }
+.dimline{ stroke:#767676; stroke-width:1; }
+.dimtick{ stroke:#767676; stroke-width:1; }
+.lbl,.lbl-room,.lbl-room-sm,.lbl-dim,.lbl-dim-sm,.lbl-tiny{ font-family:'Josefin Sans',Futura,sans-serif; fill:#111111; }
 .lbl-room{ font-size:9.5px; letter-spacing:.04em; font-weight:600; }
 .lbl-room-sm{ font-size:7.6px; letter-spacing:.03em; font-weight:600; }
-.lbl-dim{ font-size:8px; fill:#6B5B45; letter-spacing:.03em; }
-.lbl-dim-sm{ font-size:6.6px; fill:#6B5B45; letter-spacing:.02em; }
-.lbl-tiny{ font-size:5.6px; fill:#9C8A6C; font-style:italic; }
-.ground-line{ fill:#6B5B45; }
-.roof-main{ fill:#7C7161; stroke:#2A2117; stroke-width:2; }
-.roof-upper{ fill:#8B806E; stroke:#2A2117; stroke-width:2; }
-.roof-dormer{ fill:#8B806E; stroke:#2A2117; stroke-width:2; }
-.roof-course{ stroke:#2A2117; stroke-width:.7; opacity:.35; }
-.ridge-line{ stroke:#2A2117; stroke-width:1.4; }
-.chimney{ fill:#D8CBAE; stroke:#2A2117; stroke-width:1.6; }
-.chimney-cap{ fill:#6B5B45; stroke:#2A2117; stroke-width:1; }
-.dormer-wall{ fill:#F6EFDC; stroke:#2A2117; stroke-width:2; }
-.cornice{ fill:#6B5B45; stroke:#2A2117; stroke-width:1.4; }
-.cordon{ fill:#A8743A; stroke:#2A2117; stroke-width:1.2; opacity:.85; }
-.wall-upper{ fill:#F6EFDC; stroke:#2A2117; stroke-width:2.2; }
-.win-frame{ fill:#D9E0E9; stroke:#2A2117; stroke-width:2; }
-.win-bar{ stroke:#2A2117; stroke-width:1.3; }
-.win-bar-thin{ stroke:#2A2117; stroke-width:.9; }
-.rail{ stroke:#2A2117; stroke-width:1.6; fill:none; }
-.rail-thin{ stroke:#6B5B45; stroke-width:1; }
-.pilaster{ fill:#F6EFDC; stroke:#2A2117; stroke-width:1.4; }
-.pilaster-cap{ fill:#F6EFDC; stroke:#2A2117; stroke-width:1.2; }
-.sconce-arm{ stroke:#6B5B45; stroke-width:2; }
-.sconce-lamp{ fill:#A8743A; stroke:#2A2117; stroke-width:1; }
-.stone-line{ stroke:#6B5B45; stroke-width:1; opacity:.55; }
-.stone-line-faint{ stroke:#6B5B45; stroke-width:.6; opacity:.3; }
-.door{ fill:#6B5B45; stroke:#2A2117; stroke-width:2; opacity:.85; }
-.door-bar{ stroke:#F1E7D2; stroke-width:1.4; }
-.door-bar-thin{ stroke:#F1E7D2; stroke-width:1; opacity:.7; }
-.cap{ font-family:'Josefin Sans',Futura,sans-serif; font-size:13px; fill:#6B5B45; letter-spacing:.08em; }
+.lbl-dim{ font-size:8px; fill:#444444; letter-spacing:.03em; }
+.lbl-dim-sm{ font-size:6.6px; fill:#444444; letter-spacing:.02em; }
+.lbl-tiny{ font-size:5.6px; fill:#767676; font-style:italic; }
+.ground-line{ fill:#444444; }
+.roof-main{ fill:#7C7161; stroke:#111111; stroke-width:2; }
+.roof-upper{ fill:#8B806E; stroke:#111111; stroke-width:2; }
+.roof-dormer{ fill:#8B806E; stroke:#111111; stroke-width:2; }
+.roof-course{ stroke:#111111; stroke-width:.7; opacity:.35; }
+.ridge-line{ stroke:#111111; stroke-width:1.4; }
+.chimney{ fill:#D8CBAE; stroke:#111111; stroke-width:1.6; }
+.chimney-cap{ fill:#6B5B45; stroke:#111111; stroke-width:1; }
+.dormer-wall{ fill:#F6EFDC; stroke:#111111; stroke-width:2; }
+.cornice{ fill:#6B5B45; stroke:#111111; stroke-width:1.4; }
+.cordon{ fill:#A8743A; stroke:#111111; stroke-width:1.2; opacity:.85; }
+.wall-upper{ fill:#F6EFDC; stroke:#111111; stroke-width:2.2; }
+.win-frame{ fill:#D9E0E9; stroke:#111111; stroke-width:2; }
+.win-bar{ stroke:#111111; stroke-width:1.3; }
+.win-bar-thin{ stroke:#111111; stroke-width:.9; }
+.rail{ stroke:#111111; stroke-width:1.6; fill:none; }
+.rail-thin{ stroke:#444444; stroke-width:1; }
+.pilaster{ fill:#F6EFDC; stroke:#111111; stroke-width:1.4; }
+.pilaster-cap{ fill:#F6EFDC; stroke:#111111; stroke-width:1.2; }
+.sconce-arm{ stroke:#444444; stroke-width:2; }
+.sconce-lamp{ fill:#A8743A; stroke:#111111; stroke-width:1; }
+.stone-line{ stroke:#444444; stroke-width:1; opacity:.55; }
+.stone-line-faint{ stroke:#444444; stroke-width:.6; opacity:.3; }
+.door{ fill:#6B5B45; stroke:#111111; stroke-width:2; opacity:.85; }
+.door-bar{ stroke:#FFFFFF; stroke-width:1.4; }
+.door-bar-thin{ stroke:#FFFFFF; stroke-width:1; opacity:.7; }
+.cap{ font-family:'Josefin Sans',Futura,sans-serif; font-size:13px; fill:#444444; letter-spacing:.08em; }
 
 .rock-a{ fill:#B9AFA0; stroke:#5C544A; stroke-width:.5; opacity:.95; }
 .rock-b{ fill:#8E8A82; stroke:#4C4842; stroke-width:.5; opacity:.95; }
 .rock-c{ fill:#6E7A80; stroke:#3E464A; stroke-width:.5; opacity:.95; }
-.rock-outline{ fill:none; stroke:#2A2117; stroke-width:2; }
+.rock-outline{ fill:none; stroke:#111111; stroke-width:2; }
 
-.planter-box{ fill:#5B4A38; stroke:#2A2117; stroke-width:1.4; }
-.planter-rim{ fill:#6B5842; stroke:#2A2117; stroke-width:1; }
+.planter-box{ fill:#5B4A38; stroke:#111111; stroke-width:1.4; }
+.planter-rim{ fill:#6B5842; stroke:#111111; stroke-width:1; }
 .planter-leaf{ fill:#5C6B44; stroke:#3C4630; stroke-width:.4; }
 
 .awning-fascia{ fill:#26344A; stroke:#14202F; stroke-width:1.8; }
